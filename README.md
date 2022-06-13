@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is a list of some of the things my mom says
 
 You can use the [editor on GitHub](https://github.com/ashishkumarshah/momsays/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
